@@ -9,7 +9,7 @@ The goal of this project was to identify illegal mining activities in Colombia u
 
 ## Technologies Used
 - **Python, TensorFlow, Keras, OpenCV**: For model development and training.
-- **AWS (S3, Lambda, SageMaker)**: For cloud storage and data processing.
+- **NVIDIA GPU's**: Required hardware for model training and deployment.
 
 ## My Role
 I developed the computer vision models and supervised the data labeling process to ensure dataset quality.
