@@ -21,7 +21,11 @@ Thanks to these implementations, we increased the labeling speed by up to 4 time
 
 ## Demonstrations
 ![LinkedAI Segmentation Demo](assets\videos\SAM.gif)
-![LinkedAI Object Detection Demo](assets/images/linkedai_demo2.gif)
+
+<video width="600" controls>
+  <source src="assets\videos\aquila_sample.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
