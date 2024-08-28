@@ -7,3 +7,6 @@ if you have any questions or want to discuss job opportunities, don't hesitate t
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/stevenparragiraldo/)
 - **GitHub**: [GitHub Profile](https://github.com/StraigenDaigen)
 
+
+[Back to Projects](projects.md) or [Back to Bio](index.md)
+
